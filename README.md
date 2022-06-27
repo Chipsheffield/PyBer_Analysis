@@ -16,15 +16,8 @@ Module5
 #### 
 #### Also, although the Average Fare for both Ride and Driver in Urban City environments may be the lowest, they make up the bulk of our Fares at 62.7%.
 
-![picture alt]( https://github.com/Chipsheffield/PyBer_Analysis/blob/main/analysis/Fig5.png)
-####  
-
-
-
-
-#### There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
-#### Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
-
+![picture alt]( https://github.com/Chipsheffield/PyBer_Analysis/blob/main/analysis/Fig5.png)  
+#### The opposite can be said of Rural environments. Although being the most profitable in terms of Average Fare for both Ride and Driver, because of the small number of Rides, they generate the smallest percentage of Total Fares. With Suburban environments at times being almost the mean of the two.   
 
 #### 
 ## 
