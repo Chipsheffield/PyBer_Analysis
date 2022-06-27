@@ -23,3 +23,4 @@ Each section has a heading and subheading. (2 pt)
 Links to images are working and displayed correctly. (2 pt)
 
 
+![picture alt](http://via.placeholder.com/200x150 "Title is optional")
