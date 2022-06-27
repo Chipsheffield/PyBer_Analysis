@@ -24,13 +24,8 @@ Module5
 ## Summary: 
 ### *Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.* 
 #### 
-#### There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
-###
-#### Structure, Organization, and Formatting (6 points)
-#### The written analysis has the following structure, organization, and formatting:
-
-#### There is a title, and there are multiple sections. (2 pt)
-#### Each section has a heading and subheading. (2 pt)
-#### Links to images are working and displayed correctly. (2 pt)
+* With Urban environments composing 67% of our Fares, and having the largest number of Rides and Drivers, it may improve our Total Fares by increasing the Total Rides since the data shows there were more Total Drivers than Total Rides. 
+* With Rural environments composing 6.8% of our Fares, and having the smallest number of Rides and Drivers, it may improve our Total Fares by increasing the Total Rides since they have the highest Average Fare per Ride.
+* With Rural environments composing 6.8% of our Fares, and having the smallest number of Rides and Drivers, it may improve our Total Fares by increasing the Total Drivers since they have the highest Average Fare per Driver.
 
 
