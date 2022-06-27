@@ -3,11 +3,8 @@ Module5
 ##
 ## Overview of the analysis: 
 ### *Explain the purpose of the new analysis.*
-#### 
-### 
-#### The written analysis has the following:
-
-#### Overview of the analysis:The purpose of the new analysis is well defined. (3 pt)
+#### The purpose of the analysis is to provide the rideshare company PyBer with a data analysis on recent data acquired in the form of 2 CSV files. The purpose is to create DataFrames and graphs that will show relationship between the type of city, and the number of drivers and riders, and total and percent of fares by city type. This analysis will be used to help PyBer determine access and increase affordability in underserved neighborhoods as part of a future presentation. 
+#### Pedologically it is to introduce us to creating various DataFrames and graphs using Matplotlib and Pandas. 
 ## 
 ## Results:
 ### *Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.* 
