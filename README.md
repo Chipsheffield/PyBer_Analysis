@@ -13,7 +13,11 @@ Module5
 ####
 #### Looking at the above we can see that among the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type, there is a definite difference between the three. And as shown below, that difference isn’t time dependent. 
 ![picture alt](https://github.com/Chipsheffield/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
+#### 
+#### Also, although the Average Fare for both Ride and Driver in Urban City environments may be the lowest, they make up the bulk of our Fares at 62.7%.
 
+![picture alt]( https://github.com/Chipsheffield/PyBer_Analysis/blob/main/analysis/Fig5.png)
+####  
 
 
 
