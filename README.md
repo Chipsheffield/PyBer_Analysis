@@ -8,7 +8,16 @@ Module5
 ## 
 ## Results:
 ### *Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.* 
-#### 
+#### Below is the ride-sharing data we recently obtained concentrating on Urban, Suburban, and Rural city/location types. 
+![picture alt](https://github.com/Chipsheffield/PyBer_Analysis/blob/main/analysis/PyBer%20Challange%20DataFrame.png)
+####
+#### Looking at the above we can see that among the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type, there is a definite difference between the three. And as shown below, that difference isn’t time dependent. 
+![picture alt](https://github.com/Chipsheffield/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
+
+
+
+
+
 #### There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
 #### Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
@@ -28,4 +37,3 @@ Module5
 #### Links to images are working and displayed correctly. (2 pt)
 
 
-![picture alt](http://via.placeholder.com/200x150 "Title is optional")
